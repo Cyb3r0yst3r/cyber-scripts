@@ -1,5 +1,5 @@
 # Look for a pattern within domain names
-# WHOISXMLAPI.COM
+# Ed@WHOISXMLAPI.COM
 # Search all files, traversing directories, looking for a matching pattern
 # For example, 
 #    search all files starting in /tmp/whois_download/ for  
