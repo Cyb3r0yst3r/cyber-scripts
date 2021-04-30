@@ -1,4 +1,7 @@
 # Ed Gibbs
+# command: python3 revip.py IP_ADDR APIKEY
+#    example: python3 revip.py 8.8.8.8 asdfasdfasdfasdfadf > list.csv
+# see output file: list.csv
 
 import sys
 
